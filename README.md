@@ -4,6 +4,9 @@ This project is an AI-powered chatbot designed to extract health data from PDF d
 Features:
 
 Seamlessly extracts health data from PDFs using natural language processing techniques.
+
 Integrates OpenAI API for intelligent conversation capabilities.
+
 Utilizes LangChain for accurate language processing and understanding user queries.
+
 Presents results through a user-friendly interface built with Streamlit.
